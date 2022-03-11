@@ -1,1 +1,3 @@
-# Jack-IN-the-Box
+# boxy
+
+Demo: https://comphonia.github.io/boxy
